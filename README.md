@@ -1,4 +1,4 @@
-# Technix-Workout
+# Technix-Workout Principal Interfaces
 
 
 <img width="945" height="428" alt="image" src="https://github.com/user-attachments/assets/b2cf7215-b6fe-46fe-875b-ea2e4fd3a335" />
